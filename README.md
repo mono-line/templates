@@ -1,7 +1,7 @@
 # Monoline Academic Templates
 
 Free, clean, and well-documented templates for academic writing.  
-Built and maintained by [Monoline](https://monoline.io).
+Built and maintained by [Monoline](https://monoline.net).
 
 Monoline provides professional-quality LaTeX, Word, and Pages templates designed
 for theses, dissertations, reports, and journal submissions. All templates are
